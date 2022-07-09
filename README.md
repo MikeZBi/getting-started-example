@@ -6,6 +6,8 @@ Watch this [7-minute walkthrough](https://www.youtube.com/watch?v=WgO5iG57jeQ) t
 
 This repo contains three packages or projects:
 
+Testing commit
+
 - `header` (a library of React components)
 - `footer` (a library of React components)
 - `remixapp` (an app written using the Remix framework which depends on both `header` and `footer`)
