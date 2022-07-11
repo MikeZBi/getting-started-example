@@ -1,4 +1,5 @@
 import React from 'react';
-test('example spec', () => {
+
+test('renders header', () => {
     expect(true).toBe(true);
 });
